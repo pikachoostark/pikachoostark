@@ -6,6 +6,7 @@
 * Technologies: 
 (Python) jupyter, pandas, numpy, matplotlib, sklearn, pytorch, tensorflow;
 (DevOps) Docker, k8s, git, Linux/Bash, LaTeX
+(robots) ROS, gazebo
 
 
 <!--
