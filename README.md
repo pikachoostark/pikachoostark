@@ -1,17 +1,11 @@
 <img src="./img/cover_pikachu_resized.gif" width="100%">
 
 ---
-# Hi there 👋
-— 🌱 I’m currently learning in Moscow State University
-
+<h3 align="center">hi there👋</h3>  
+<p align="center"> you can call me <strong>pikachoostark</strong>.</p>
+<p align="center"> I'm active CS learner</p>
 ---
 # 🔭 Programming Skills & Related
-* Languages: Python, C++, SQL
-* Technologies: 
-(Python) jupyter, pandas, numpy, matplotlib, sklearn, pytorch, tensorflow;
-(DevOps) Docker, k8s, git, Linux/Bash, LaTeX
-(robots) ROS, gazebo
-
 <p>
   <img src="./img/logo/cpp.svg" width="128px">
   <img src="./img/logo/python_resized.svg" width="128px">
