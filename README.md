@@ -1,11 +1,12 @@
 <img src="./img/cover_pikachu_resized.gif" width="100%">
 
 ---
-<h3 align="center">hi there👋</h3>  
+<h1 align="center">✨Hi There✨</h1>  
 <p align="center"> you can call me <strong>pikachoostark</strong>.</p>
-<p align="center"> I'm active CS learner</p>
+<p align="center"> I'm active CS learner. currently studying in Moscow State University.</p>
+
 ---
-# 🔭 Programming Skills & Related
+<h1 align="center"> 🔭 Programming Skills & Related🔭</h1>
 <p>
   <img src="./img/logo/cpp.svg" width="128px">
   <img src="./img/logo/python_resized.svg" width="128px">
@@ -38,17 +39,3 @@
   <img src="./img/logo/gazebo.svg" width="128px">
 </p>
 
-<!--
-**pikachoostark/pikachoostark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
