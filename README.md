@@ -1,6 +1,10 @@
+<img src="./img/cover_pikachu_resized.gif" width="100%">
+
+---
 # Hi there 👋
 — 🌱 I’m currently learning in Moscow State University
 
+---
 # 🔭 Programming Skills & Related
 * Languages: Python, C++, SQL
 * Technologies: 
