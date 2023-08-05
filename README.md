@@ -32,7 +32,7 @@
   <img src="./img/logo/tensorflow.svg" width="128px"> 
 </p>
 <p>
-  <img src="./img/logo/docker.svg" width="128px">
+  <img src="./img/logo/docker_mini.svg" width="128px">
   <img src="./img/logo/kubernetes.svg" width="128px">
   <img src="./img/logo/git_dark.svg" width="128px">
   <img src="./img/logo/linux.svg" width="128px">
