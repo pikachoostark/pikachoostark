@@ -13,8 +13,9 @@
 (robots) ROS, gazebo
 
 <p>
-  <img src="./img/logo/cpp.svg" width="128px"> 
-  <img src="./img/logo/python_resized.svg" width="128px"> 
+  <img src="./img/logo/cpp.svg" width="128px">
+  <img src="./img/logo/python_resized.svg" width="128px">
+  <img src="./img/logo/perl.svg" width="128px">
   <img src="./img/logo/sql.svg" width="128px">
 </p>
 <p>
