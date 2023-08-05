@@ -12,6 +12,7 @@
 (DevOps) Docker, k8s, git, Linux/Bash, LaTeX
 (robots) ROS, gazebo
 
+<img src="./img/logo/cpp.svg" width="128px"> <img src="./img/logo/python.svg" width="128px"> <img src="./img/logo/html5.svg" width="128px"> 
 
 <!--
 **pikachoostark/pikachoostark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
