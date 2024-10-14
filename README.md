@@ -3,7 +3,7 @@
 ---
 <h1 align="center">✨Hi There✨</h1>  
 <p align="center"> you can call me <strong>pikachoostark</strong>.</p>
-<p align="center"> I'm active CS learner. currently studying in Moscow State University.</p>
+<p align="center"> I'm active CS learner. currently working as Junior Autonomous Vehicles Engineer.</p>
 
 ---
 <h1 align="center"> 🔭 Programming Skills & Related🔭</h1>
